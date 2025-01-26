@@ -6,7 +6,7 @@ I've had the privilege of working 15+ years around the world learning and servin
 
 At the end of the day, I strive to be known as a servant leader who is grounded, present, and enjoying the journey. 
 
-* What ultimately matters is not where you end up relative to your peers, but where you end up relative to yourself when you began. - David Malan
+*What ultimately matters is not where you end up relative to your peers, but where you end up relative to yourself when you began. - David Malan*
 
 ---
 
