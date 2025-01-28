@@ -1,4 +1,4 @@
-# Husband | Dad | Brining 15 Years of technical experience in Electronics, Audio-Visual, System Administration, and Project Management. 
+# Husband | Dad | Bringing 15+ technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
 My care for people and passion toward action drives an intentionality that can enhance your organization's ability to tell it's unique story; without compromising quality nor integrity - maintaining priorities and most importantly, values. 
 
