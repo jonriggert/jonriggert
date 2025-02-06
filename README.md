@@ -29,8 +29,6 @@ Google IT Support Professional Certification
 
 Microsoft Azure (AZ-900) and 365 (MS-900) 
 
-Certified Linux Professional Institute - Linux Essentials Certification 
-
 ### Employment History 
 
 IT Operations Supervisor at Sight & Sound, Branson Missouri May 2023 — Present 
