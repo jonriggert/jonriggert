@@ -17,9 +17,8 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 - Tech Independence through Derek Sivers
 - John Savill's Azure Masterclass v3
 - Microsoft Intune.Training Courses on YouTube
-- AWS Certified Cloud Practitioner
-- The Bearded I.T. Dad Podcast
-- Book: Powershell (and Scripting) in a Month of Lunches
+- AZ-104 Azure Administrator Certificate
+- Google IT Automationtion with Python Professional Certificate
 
 ### Certifications 
 
