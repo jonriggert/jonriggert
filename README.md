@@ -1,4 +1,6 @@
-# Husband | Dad | Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
+# Husband | Dad | Cloud-Centric System Administrator, focusing on Automation & Project Leadership
+
+## Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
 My care for people and passion toward action drives an intentionality that can enhance your organization's ability to tell it's unique story; without compromising quality nor integrity - maintaining priorities and most importantly, values. 
 
