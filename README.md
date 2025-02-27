@@ -1,6 +1,6 @@
-# Husband | Dad | Cloud-Centric System Administrator, focusing on Automation & Project Leadership
+# 💎 Husband | 🧢 Dad | ☁️ Cloud-Centric System Administrator, focusing on Automation & Project Leadership
 
-## Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
+## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
 My care for people and passion toward action drives an intentionality that can enhance your organization's ability to tell it's unique story; without compromising quality nor integrity - maintaining priorities and most importantly, values. 
 
@@ -8,7 +8,7 @@ I've had the privilege of working 15+ years around the world learning and servin
 
 At the end of the day, I strive to be known as a servant leader who is grounded, present, and enjoying the journey. 
 
-*What ultimately matters is not where you end up relative to your peers, but where you end up relative to yourself when you began. - David Malan*
+☑️ *What ultimately matters is not where you end up relative to your peers, but where you end up relative to yourself when you began. - David Malan*
 
 ---
 
