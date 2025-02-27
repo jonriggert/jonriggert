@@ -12,7 +12,7 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 
 ---
 
-### Currently Learning: 
+### 📖 Currently Learning: 
 
 - Project Management (PMP Certification) through PMI
 - Linux (LPI Certification) through LearnLinux.tv
@@ -22,7 +22,7 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 - AZ-104 Azure Administrator Certificate
 - Google IT Automationtion with Python Professional Certificate
 
-### Certifications 
+### 🔌 Certifications 
 
 CompTIA A+ and Network+ Certified 
 
@@ -30,7 +30,7 @@ Google IT Support Professional Certification
 
 Microsoft Azure (AZ-900) and 365 (MS-900) 
 
-### Employment History 
+### 👷🏻‍♂️ Employment History 
 
 IT Operations Supervisor at Sight & Sound, Branson Missouri May 2023 — Present 
 
@@ -46,7 +46,7 @@ Intern Media Director at North Point Church, Springfield Missouri May 2009 — D
 
 Assistant Technical Director at Pike Auditorium, Bolivar Missouri September 2008 — December 2012 
 
-### Education 
+### 🎓 Education 
 
 Bachelor of Arts in Communications, Southwest Baptist University
 
