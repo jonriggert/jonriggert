@@ -2,13 +2,17 @@
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
-My care for people and passion toward action drives an intentionality that can enhance your organization's ability to tell it's unique story; without compromising quality nor integrity - maintaining priorities and most importantly, values. 
+I started my career in high-pressure live production and AV environments, where reliability and real-time problem-solving were non-negotiable. Over the years, I expanded into IT operations, cloud infrastructure, and automation, bridging the gap between enterprise technology, AV systems, and modern cloud solutions.
 
-I've had the privilege of working 15+ years around the world learning and serving toward a common goal: personal and professional transformation - aligning people and processes in order to achieve a greater potential. Whether in the setting of a non-profit, small business, or corporate enterprise.. let me be a part of your story. 
+Today, as an IT Operations Supervisor, I oversee infrastructure, security, automation, and enterprise technology strategy. I thrive in roles where I can optimize systems, reduce downtime, and implement cloud-driven solutions that improve efficiency across organizations.
 
-At the end of the day, I strive to be known as a servant leader who is grounded, present, and enjoying the journey. 
+Core Strengths:
+✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
+✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
+✔ Enterprise AV & Networked Media (Teams Rooms, AV-over-IP, Digital Signage)
+✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
 
-☑️ *What ultimately matters is not where you end up relative to your peers, but where you end up relative to yourself when you began. - David Malan*
+I know what it means to adapt, learn, and push forward in a constantly changing tech landscape. I’m excited about opportunities in IT leadership, cloud engineering, or enterprise infrastructure, where I can combine my technical expertise with problem-solving leadership.
 
 ---
 
