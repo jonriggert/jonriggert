@@ -9,6 +9,7 @@ That hands-on experience shaped how I approach technology today. I specialize in
 Currently, as an IT Operations Supervisor, I oversee enterprise infrastructure, security, automation, and strategic technology planning. I thrive in environments where I can streamline systems, reduce downtime, and implement cloud-driven solutions that create real impact.
 
 Key Strengths:
+
 ✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
 
 ✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
