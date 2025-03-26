@@ -7,6 +7,7 @@ I started my career in high-pressure live production and AV environments, where 
 Today, as an IT Operations Supervisor, I oversee infrastructure, security, automation, and enterprise technology strategy. I thrive in roles where I can optimize systems, reduce downtime, and implement cloud-driven solutions that improve efficiency across organizations.
 
 Core Strengths:
+
 ✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
 
 ✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
