@@ -18,7 +18,7 @@ Key Strengths:
 
 ✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
 
-I know what it means to adapt, learn, and push forward in a constantly changing tech landscape. I’m excited about opportunities in IT leadership, cloud engineering, or enterprise infrastructure, where I can combine my technical expertise with problem-solving leadership.
+I know what it means to adapt, learn, and push forward in a constantly changing tech landscape. I’m excited about opportunities in IT leadership, cloud engineering, or enterprise infrastructure, where I can combine my technical expertise with problem-solving leadership. I’m seeking a dynamic role where I can utilize both my leadership abilities and hands-on technical skills to contribute to IT innovation and growth.
 
 ---
 
