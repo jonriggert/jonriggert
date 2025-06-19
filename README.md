@@ -1,4 +1,4 @@
-# 💎 Husband | 🧢 Dad | ☁️ Cloud-Centric System Administrator, focusing on Automation & Project Leadership
+# Husband | Dad | Cloud-Centric System Administrator, focusing on Automation & Project Leadership
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
@@ -31,6 +31,10 @@ I know what it means to adapt, learn, and push forward in a constantly changing 
 - Microsoft Intune.Training Courses on YouTube
 - AZ-104 Azure Administrator Certificate
 - Google IT Automationtion with Python Professional Certificate
+
+### ☁️ Projects
+
+
 
 ### 🔌 Certifications 
 
