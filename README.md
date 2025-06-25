@@ -4,7 +4,7 @@
 
 I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants, pressure-tested in live production environments before expanding into IT operations, cloud infrastructure, and automation.
 
-I enjoy solve real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
+I enjoy solving real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
 
 Whether it’s untangling strange technical issues, creating structure where there is none, or finding a smarter way forward—I bring creativity, calm, and clarity. I don’t chase credit.
 
