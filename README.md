@@ -2,11 +2,19 @@
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
-I didn’t take the traditional IT path—I built my career from the ground up, starting in high-pressure live production environments before expanding into IT operations, cloud infrastructure, and automation.
+I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants, pressure-tested in live production environments before expanding into IT operations, cloud infrastructure, and automation.
 
-That hands-on experience shaped how I approach technology today. I specialize in bridging the gap between enterprise IT, AV systems, and modern cloud solutions—optimizing technology for large-scale organizations while leading teams, managing infrastructure, and driving automation.
+I enjoy solve real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
 
-Currently, as an IT Operations Supervisor, I oversee enterprise infrastructure, security, automation, and strategic technology planning. I thrive in environments where I can streamline systems, reduce downtime, and implement cloud-driven solutions that create real impact.
+Whether it’s untangling strange technical issues, creating structure where there is none, or finding a smarter way forward—I bring creativity, calm, and clarity. I don’t chase credit.
+
+Through much sought-after feedback: I’ve often been described as a strategic thinker and visionary—someone who sees patterns others miss and connects dots across technical and relational layouts. That feedback has shaped how I lean into complex problems and built relationships. 
+
+Key Strengths:
+✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
+✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
+✔ Enterprise AV & Networked Media (Teams Rooms, AV-over-IP, Digital Signage)
+✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
 
 Key Strengths:
 
@@ -17,8 +25,6 @@ Key Strengths:
 ✔ Enterprise AV & Networked Media (Teams Rooms, AV-over-IP, Digital Signage)
 
 ✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
-
-I know what it means to adapt, learn, and push forward in a constantly changing tech landscape. I’m excited about opportunities in IT leadership, cloud engineering, or enterprise infrastructure, where I can combine my technical expertise with problem-solving leadership. I’m seeking a dynamic role where I can utilize both my leadership abilities and hands-on technical skills to contribute to IT innovation and growth.
 
 ---
 
