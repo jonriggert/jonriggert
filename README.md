@@ -1,42 +1,47 @@
-# Husband | Dad | Cloud-Centric System Administrator, focusing on Automation & Project Leadership
+# Husband | Dad | Hybrid-Cloud & Platform-Ops Engineer who turns toil into code and outages into learning moments.
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
-I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants, pressure-tested in live production environments before expanding into IT operations, cloud infrastructure, and automation.
+ I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants - forged in high stakes live production, now designing on-prem Proxmox/AWS/Azure environments and self-service automation that keep 1000+ users productive.
 
-I enjoy solving real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
+I specialise in building the shared platform layer—landing zones, pipelines and monitoring—so product and support teams can move faster with less risk. I enjoy solving real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
 
-Whether it’s untangling strange technical issues, creating structure where there is none, or finding a smarter way forward—I bring creativity, calm, and clarity. I don’t chase credit.
-
-Through much sought-after feedback: I’ve often been described as a strategic thinker and visionary—someone who sees patterns others miss and connects dots across technical and relational layouts. That feedback has shaped how I lean into complex problems and built relationships. 
-
-Key Strengths:
-✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
-✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
-✔ Enterprise AV & Networked Media (Teams Rooms, AV-over-IP, Digital Signage)
-✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
+Recent Highlights:
+• Modernised on-prem + cloud stack for a 329,000 sq ft campus, achieving consistent >99 % uptime.
+• Automated device onboarding with Intune & AutoPilot, freeing technicians for higher-value work.
 
 Key Strengths:
+• Digital Transformation
+• Platform Architecture (On-Prem and Cloud)
+• Technical Program Management
+• Cross Functional Leadership
 
-✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
+Next Focus:
+• AWS SysOps Admin exam (Oct ‘25) and building Kubernetes expertise toward CKA.
 
-✔ Automation & System Optimization (Intune, Auto-Pilot, PowerShell, Python)
+Core Competencies:
+• Cloud Platforms: AWS (EC2, VPC, IAM, S3), Azure (AD, Intune), Entra ID, Microsoft 365
+• Infrastructure as Code & Automation: Terraform, Ansible, PowerShell, GitHub Actions, Bash
+• Containers & CI/CD: Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI
+• Systems & Networking: Windows & Linux servers, VMware, DNS, DHCP, VPN, VoIP, IP surveillance
+• Observability & SRE: Prometheus/Grafana, SLO/SLA design, Incident response, DR/BCP
+• Leadership & PM: Agile/Scrum, Budgeting, Vendor management, SOPs & KPIs
 
-✔ Enterprise AV & Networked Media (Teams Rooms, AV-over-IP, Digital Signage)
-
-✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
+Certifications:
+AWS Certified Cloud Practitioner | Microsoft Certified: Azure Fundamentals | CompTIA A+ | CompTIA Network+
+Google IT Support Professional | LPI Linux Essentials | PMP (PMI)
+AWS Certified SysOps Administrator – scheduled Oct 2025
 
 ---
 
 ### 📖 Currently Learning: 
 
-- Project Management (PMP Certification) through PMI
 - Linux (LPI Certification) through LearnLinux.tv
-- Tech Independence through Derek Sivers
-- John Savill's Azure Masterclass v3
+- John Savill's Azure Masterclass v3 & DevOps MasterClass
 - Microsoft Intune.Training Courses on YouTube
-- AZ-104 Azure Administrator Certificate
-- Google IT Automationtion with Python Professional Certificate
+- Azure Administrator Certificate, AWS Cloud Practitioner / Cloud Architech / SysOps
+- GitHub, Containerization and Virtualization through DataCamp
+- Proxmox Clustering with Docker, Ubuntu Servers, Windows Servers, Veeam Backups with Ceph and TrueNAS
 
 ### ☁️ Projects
 
