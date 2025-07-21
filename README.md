@@ -45,10 +45,7 @@ AWS Certified SysOps Administrator – scheduled Oct 2025
 
 ### ☁️ Projects
 
-<figure>
-  <a href="https://github.com/jonriggert/journey-to-the-clouds"><img src="assets/JourneytotheClouds.png" alt="Journey to the Clouds"></a>
-  <figcaption>My GitHub repo where I document my learning journey toward AWS and Azure speciality roles - learning Infrastructure as Code and Automation. My code is stored here as I learn it, as well as notes and documentation - and my daily journal of what I've learned! </figcaption>
-</figure>
+Coming Soon!!! 
 
 ### 🔌 Certifications 
 
