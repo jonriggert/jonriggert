@@ -43,6 +43,8 @@ AWS Certified SysOps Administrator – scheduled Oct 2025
 - GitHub, Containerization and Virtualization through DataCamp
 - Proxmox Clustering with Docker, Ubuntu Servers, Windows Servers, Veeam Backups with Ceph and TrueNAS
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677812b670129741a80ec7cd?variant=dark&roadmaps=devops%2Caws" alt="roadmap.sh"/></a>
+
 ### ☁️ Projects
 
 Coming Soon!!! 
