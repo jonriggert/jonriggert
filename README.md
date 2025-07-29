@@ -2,31 +2,47 @@
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
- I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants - forged in high stakes live production, now designing on-prem Proxmox/AWS/Azure environments and self-service automation that keep 1000+ users productive.
+IT Operations professional with 7+ years managing enterprise Microsoft 365 environments and leading technical teams. I didn't take the traditional IT path—my career has been built from the ground up, forged in high-stakes live production environments, now managing on-premises and cloud infrastructure that keeps 1,000+ users productive.
 
-I specialise in building the shared platform layer—landing zones, pipelines and monitoring—so product and support teams can move faster with less risk. I enjoy solving real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
+Core Competencies
+Microsoft 365 Administration: Exchange Online, Teams, SharePoint, OneDrive management
+Intune device management and AutoPilot deployment
+User lifecycle automation and provisioning
 
-Recent Highlights:
-• Modernised on-prem + cloud stack for a 329,000 sq ft campus, achieving consistent >99 % uptime.
-• Automated device onboarding with Intune & AutoPilot, freeing technicians for higher-value work.
-• Migrated from VMware to Proxmox hosts, reducing 5-year lifecycle cost by 75% = over $100,000.
+Identity & Access Management:
+Active Directory and Entra ID administration
+Conditional access policies and MFA implementation
+Security compliance and auditing
 
-Key Strengths:
-• Digital Transformation
-• Platform Architecture (On-Prem and Cloud)
-• Technical Program Management
-• Cross Functional Leadership
+Infrastructure & Networking:
+Windows Server administration
+DNS, DHCP, and VPN management
+Network security and monitoring
+Virtualization (Proxmox, VMware)
 
-Next Focus:
-• AWS Cloud Solutions Architect and SysOps Certification with Project Portfolio
+Automation & Scripting:
+PowerShell scripting for administrative tasks
+Device provisioning workflows
+Basic Git version control
 
-Core Competencies:
-• Cloud Platforms: AWS (EC2, VPC, IAM, S3), Azure (AD, Intune), Entra ID, Microsoft 365
-• Infrastructure as Code & Automation: Terraform, Ansible, PowerShell, GitHub Actions, Bash
-• Containers & CI/CD: Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI, LXC
-• Systems & Networking: Windows & Linux servers, VMware, DNS, DHCP, VPN, VoIP, IP surveillance
-• Observability & SRE: Prometheus/Grafana, SLO/SLA design, Incident response, DR/BCP
-• Leadership & PM: Agile/Scrum, Budgeting, Vendor management, SOPs & KPIs
+Leadership & Operations:
+Budget management ($500K annual responsibility)
+Vendor negotiation and contract management
+Team coordination and SOP development
+Project management and cross-functional collaboration
+
+Growing Skills:
+Azure cloud administration
+Docker containerization
+Linux system administration
+
+
+Key Achievements
+Cost Savings: Achieved $100,000+ infrastructure cost reduction through strategic virtualization migration
+Automation Impact: Reduced manual device configuration time by 80% through Intune/AutoPilot implementation
+Uptime Excellence: Maintained >99% system uptime across 329,000 sq ft multi-campus environment
+Team Leadership: Successfully managed 20-person hybrid technical team supporting 650,000+ annual guests
+Process Improvement: Implemented comprehensive operational frameworks resulting in 15% service delivery cost reduction
 
 ---
 
