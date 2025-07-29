@@ -4,40 +4,63 @@
 
 IT Operations professional with 7+ years managing enterprise Microsoft 365 environments and leading technical teams. I didn't take the traditional IT path—my career has been built from the ground up, forged in high-stakes live production environments, now managing on-premises and cloud infrastructure that keeps 1,000+ users productive.
 
-Core Competencies
-Microsoft 365 Administration: Exchange Online, Teams, SharePoint, OneDrive management
+## Core Competencies
+
+### Microsoft 365 Administration: 
+
+Exchange Online, Teams, SharePoint, OneDrive management
+
 Intune device management and AutoPilot deployment
+
 User lifecycle automation and provisioning
 
-Identity & Access Management:
+### Identity & Access Management:
+
 Active Directory and Entra ID administration
+
 Conditional access policies and MFA implementation
+
 Security compliance and auditing
 
-Infrastructure & Networking:
+### Infrastructure & Networking:
+
 Windows Server administration
+
 DNS, DHCP, and VPN management
+
 Network security and monitoring
+
 Virtualization (Proxmox, VMware)
 
-Automation & Scripting:
+### Automation & Scripting:
+
 PowerShell scripting for administrative tasks
+
 Device provisioning workflows
+
 Basic Git version control
 
-Leadership & Operations:
+### Leadership & Operations:
+
 Budget management ($500K annual responsibility)
+
 Vendor negotiation and contract management
+
 Team coordination and SOP development
+
 Project management and cross-functional collaboration
 
-Growing Skills:
+### Growing Skills:
+
 Azure cloud administration
+
 Docker containerization
+
 Linux system administration
 
 
-Key Achievements
+## Key Achievements
+
 Cost Savings: Achieved $100,000+ infrastructure cost reduction through strategic virtualization migration
 
 Automation Impact: Reduced manual device configuration time by 80% through Intune/AutoPilot implementation
