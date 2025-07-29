@@ -39,9 +39,13 @@ Linux system administration
 
 Key Achievements
 Cost Savings: Achieved $100,000+ infrastructure cost reduction through strategic virtualization migration
+
 Automation Impact: Reduced manual device configuration time by 80% through Intune/AutoPilot implementation
+
 Uptime Excellence: Maintained >99% system uptime across 329,000 sq ft multi-campus environment
+
 Team Leadership: Successfully managed 20-person hybrid technical team supporting 650,000+ annual guests
+
 Process Improvement: Implemented comprehensive operational frameworks resulting in 15% service delivery cost reduction
 
 ---
