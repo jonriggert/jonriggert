@@ -1,4 +1,4 @@
-# Husband | Dad | Hybrid-Cloud & Platform-Ops Engineer who turns toil into code and outages into learning moments.
+# Husband | Dad | Hybrid-Cloud & Platform-Ops Leader who turns toil into code and outages into learning moments.
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
