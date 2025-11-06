@@ -1,4 +1,4 @@
-# Husband | Dad | Hybrid-Cloud & Platform-Ops Leader who turns toil into code and outages into learning moments.
+# Husband | Dad | Project Manager
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
@@ -32,14 +32,6 @@ Network security and monitoring
 
 Virtualization (Proxmox, VMware)
 
-### Automation & Scripting:
-
-PowerShell scripting for administrative tasks
-
-Device provisioning workflows
-
-Basic Git version control
-
 ### Leadership & Operations:
 
 Budget management ($500K annual responsibility)
@@ -49,15 +41,6 @@ Vendor negotiation and contract management
 Team coordination and SOP development
 
 Project management and cross-functional collaboration
-
-### Growing Skills:
-
-Azure cloud administration
-
-Docker containerization
-
-Linux system administration
-
 
 ## Key Achievements
 
@@ -72,19 +55,6 @@ Team Leadership: Successfully managed 20-person hybrid technical team supporting
 Process Improvement: Implemented comprehensive operational frameworks resulting in 15% service delivery cost reduction
 
 ---
-
-### 📖 Currently Learning: 
-
-- Linux (LPI Certification) through LearnLinux.tv
-- John Savill's Azure Masterclass v3 & DevOps MasterClass
-- Microsoft Intune.Training Courses on YouTube
-- Azure Administrator Certificate, AWS Cloud Practitioner / Cloud Architect / SysOps
-- GitHub, Containerization and Virtualization through DataCamp
-- Proxmox Clustering with Docker, Ubuntu Servers, Windows Servers, Veeam Backups with Ceph and TrueNAS
-
-### ☁️ Projects
-
-Coming Soon!!! 
 
 ### 🔌 Certifications 
 
