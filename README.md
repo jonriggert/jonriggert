@@ -1,59 +1,34 @@
-# IT Operations Manager | Service Delivery & Team Leadership | ITIL/ITSM | Project Managemen
+# IT Operations Manager | Service Delivery & Team Leadership | ITIL/ITSM | Project Management
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
-IT Operations professional with 7+ years managing enterprise Microsoft 365 environments and leading technical teams. I didn't take the traditional IT path—my career has been built from the ground up, forged in high-stakes live production environments, now managing on-premises and cloud infrastructure that keeps 1,000+ users productive.
+I lead IT operations, service delivery, and strategic initiatives for a 1,000+ user organization – managing everything from team development and $500K operational budgets to cross-functional project coordination and executive stakeholder communication.
 
-## Core Competencies
+### What I do:
 
-### Microsoft 365 Administration: 
+I have full personnel management responsibility including hiring, performance management, and team development. I manage our project portfolio using Agile methodologies, implement ITIL service management frameworks, and serve as the bridge between technical teams and business leadership.
 
-Exchange Online, Teams, SharePoint, OneDrive management
+### My role encompasses:
 
-Intune device management and AutoPilot deployment
+- Personnel management – recruiting, hiring, performance reviews, development planning, and difficult decisions when necessary
+- Budget oversight – $500K operational budget including procurement, vendor management, and cost optimization
+- Project coordination – portfolio management, quarterly reviews, cross-functional stakeholder communication
+- Service management – SLA design, knowledge systems, process improvement
+- Strategic planning – IT capability assessment, improvement roadmap, executive reporting
 
-User lifecycle automation and provisioning
+### My background is unique:
 
-### Identity & Access Management:
+I combine 7 years of enterprise IT operations with 15+ years of technical production leadership in high-stakes live entertainment environments. This gives me a distinctive perspective on crisis management, zero-tolerance-for-failure operations, and leading teams under pressure.
 
-Active Directory and Entra ID administration
+I've managed theatrical automation systems for 2,000-seat venues, coordinated AV integration for a $1 billion museum opening, and led Microsoft 365 migrations for 1,000+ users. I understand technology deeply, but my real strength is translating technical solutions into business value and leading teams to deliver results.
 
-Conditional access policies and MFA implementation
+### What I'm pursuing:
 
-Security compliance and auditing
+I'm currently completing my PMP certification (May 2025) and ITIL Foundation while staying active in the PMI community and attending industry conferences (HDI Service Management World, Workplace Ninjas).
 
-### Infrastructure & Networking:
+I'm exploring opportunities in IT Operations Management, IT Service Delivery Management, or Technical Project Management where I can bring my operational leadership, service management expertise, and strategic communication skills to drive organizational excellence.
 
-Windows Server administration
-
-DNS, DHCP, and VPN management
-
-Network security and monitoring
-
-Virtualization (Proxmox, VMware)
-
-### Leadership & Operations:
-
-Budget management ($500K annual responsibility)
-
-Vendor negotiation and contract management
-
-Team coordination and SOP development
-
-Project management and cross-functional collaboration
-
-## Key Achievements
-
-Cost Savings: Achieved $100,000+ infrastructure cost reduction through strategic virtualization migration
-
-Automation Impact: Reduced manual device configuration time by 80% through Intune/AutoPilot implementation
-
-Uptime Excellence: Maintained >99% system uptime across 329,000 sq ft multi-campus environment
-
-Team Leadership: Successfully managed 20-person hybrid technical team supporting 650,000+ annual guests
-
-Process Improvement: Implemented comprehensive operational frameworks resulting in 15% service delivery cost reduction
-
+Let's connect if you're looking for an IT leader who combines technical depth with people leadership, strategic thinking with hands-on execution, and a track record of delivering results in complex, multi-stakeholder environments.
 ---
 
 ### 🔌 Certifications 
