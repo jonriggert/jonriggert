@@ -1,6 +1,6 @@
 # IT Operations Manager | Service Delivery & Team Leadership | ITIL/ITSM | Project Management
 
-
+![Serving people at the intersection of creativity, education, technology, and leadership](assets/mission.jpg)
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
