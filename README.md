@@ -2,7 +2,7 @@
 
 ![Serving people at the intersection of creativity, education, technology, and leadership](assets/mission.jpg)
 
-## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
+## 🧑🏻‍💻 Bringing 15+ year of technical management experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
 I lead IT operations, service delivery, and strategic initiatives for a 1,000+ user organization – managing everything from team development and $500K operational budgets to cross-functional project coordination and executive stakeholder communication.
 
@@ -26,14 +26,16 @@ I've managed theatrical automation systems for 2,000-seat venues, coordinated AV
 
 ### What I'm pursuing:
 
-I'm currently completing my PMP certification (May 2026) and ITIL Foundation while staying active in the PMI community and attending industry conferences (HDI Service Management World, Workplace Ninjas).
-
 I'm exploring opportunities in IT Operations Management, IT Service Delivery Management, or Technical Project Management where I can bring my operational leadership, service management expertise, and strategic communication skills to drive organizational excellence.
 
 Let's connect if you're looking for an IT leader who combines technical depth with people leadership, strategic thinking with hands-on execution, and a track record of delivering results in complex, multi-stakeholder environments.
 ---
 
 ### 🔌 Certifications 
+
+PMI-PMP Project Management Professional Certified
+
+ITIL 4 Foundations Certified
 
 CompTIA A+ and Network+ Certified 
 
@@ -45,9 +47,9 @@ Microsoft Azure (AZ-900) and 365 (MS-900)
 
 IT Operations Supervisor at Sight & Sound, Branson Missouri May 2023 — Present 
 
-Systems Administrator at Sight & Sound, Branson Missouri June 2018 — May 2023 
+Systems Administrator at Sight & Sound, Branson Missouri July 2018 — May 2023 
 
-Audio Visual Engineer at Museum of the Bible, Washington D.C. July 2017 — November 2017 
+Audio Visual Engineer at Museum of the Bible, Washington D.C. July 2017 — July 2018 
 
 Electronics Technician at Sight & Sound, Branson Missouri November 2015 — July 2017 
 
