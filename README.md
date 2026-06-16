@@ -31,6 +31,15 @@ I'm exploring opportunities in IT Operations Management, IT Service Delivery Man
 Let's connect if you're looking for an IT leader who combines technical depth with people leadership, strategic thinking with hands-on execution, and a track record of delivering results in complex, multi-stakeholder environments.
 ---
 
+### 🛠️ Technical Skills
+
+* **Cloud & Enterprise Platforms:** Microsoft 365, Azure, Entra ID (Azure AD), Intune, Exchange, SharePoint, Teams, PowerShell, Group Policy
+* **Infrastructure & Systems:** Windows Server (2012–2022), DNS, DHCP, VPN, Hyper-V, VMware ESXi, Proxmox, Linux fundamentals
+* **Networking & Security:** TCP/IP, VLANs, VoIP, site-to-site VPN, wireless, Conditional Access, MFA, SSO, identity lifecycle management
+* **IT Service Management & PM Tools:** Jira, ConnectWise, knowledge management systems, ticketing platforms, documentation systems
+* **Audiovisual Systems:** IP-based surveillance, AV integration, VoIP/SIP telephony, automated systems control
+* **AI & Automation:** Claude (Claude Code), Atlassian Rovo, Microsoft Copilot, Prompt Engineering, AI-augmented workflow design
+
 ### 🔌 Certifications 
 
 PMI-PMP Project Management Professional Certified
