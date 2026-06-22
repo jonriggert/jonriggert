@@ -1,4 +1,4 @@
-# IT Operations Manager | Service Delivery & Team Leadership | ITIL/ITSM | Project Management
+# IT Systems Analyst | Infrastructure Project Manager | IT Service Delivery Manager
 
 ![Serving people at the intersection of creativity, education, technology, and leadership](assets/mission.jpg)
 
@@ -33,12 +33,12 @@ Let's connect if you're looking for an IT leader who combines technical depth wi
 
 ### 🛠️ Technical Skills
 
-* **Cloud & Enterprise Platforms:** Microsoft 365, Azure, Entra ID (Azure AD), Intune, Exchange, SharePoint, Teams, PowerShell, Group Policy
+* **Cloud & Enterprise Platforms:** Cloud-Aligned Operations (Microsoft 365, Azure), Entra ID, Intune, Exchange, SharePoint, Teams, PowerShell, Group Policy
 * **Infrastructure & Systems:** Windows Server (2012–2022), DNS, DHCP, VPN, Hyper-V, VMware ESXi, Proxmox, Linux fundamentals
 * **Networking & Security:** TCP/IP, VLANs, VoIP, site-to-site VPN, wireless, Conditional Access, MFA, SSO, identity lifecycle management
-* **IT Service Management & PM Tools:** Jira, ConnectWise, knowledge management systems, ticketing platforms, documentation systems
+* **IT Service Management & Coordination Tracking:** ITIL 4 Service Management Lifecycle, Agile-Kanban Project Coordination Tracking, ConnectWise, Jira, knowledge management systems
 * **Audiovisual Systems:** IP-based surveillance, AV integration, VoIP/SIP telephony, automated systems control
-* **AI & Automation:** Claude (Claude Code), Atlassian Rovo, Microsoft Copilot, Prompt Engineering, AI-augmented workflow design
+* **AI & Automation:** AI-Augmented Process Design, Workflow Automation Mapping, Enterprise Prompt Engineering
 
 ### 🔌 Certifications 
 
