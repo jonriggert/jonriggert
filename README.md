@@ -1,76 +1,47 @@
-# IT Systems Analyst | Infrastructure Project Manager | IT Service Delivery Manager
-
 ![Serving people at the intersection of creativity, education, technology, and leadership](assets/mission.jpg)
 
-## 🧑🏻‍💻 Bringing 15+ year of technical management experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
+# Hi, I'm Jon Riggert 👋
 
-I lead IT operations, service delivery, and strategic initiatives for a 1,000+ user organization – managing everything from team development and $500K operational budgets to cross-functional project coordination and executive stakeholder communication.
+**Senior Technical Program Manager (PMP, ITIL 4) | IT Service Delivery Leader** 
+*Enterprise Operations Modernization • Agile Delivery • AI Enablement Governance*
 
-### What I do:
+📍 Nixa, Missouri (SWMO) / Remote • [LinkedIn](https://linkedin.com/in/jonriggert) • [Website](https://jonriggert.com)
 
-I have full personnel management responsibility including hiring, performance management, and team development. I manage our project portfolio using Agile methodologies, implement ITIL service management frameworks, and serve as the bridge between technical teams and business leadership.
-
-### My role encompasses:
-
-- Personnel management – recruiting, hiring, performance reviews, development planning, and difficult decisions when necessary
-- Budget oversight – $500K operational budget including procurement, vendor management, and cost optimization
-- Project coordination – portfolio management, quarterly reviews, cross-functional stakeholder communication
-- Service management – SLA design, knowledge systems, process improvement
-- Strategic planning – IT capability assessment, improvement roadmap, executive reporting
-
-### My background is unique:
-
-I combine 7 years of enterprise IT operations with 15+ years of technical production leadership in high-stakes live entertainment environments. This gives me a distinctive perspective on crisis management, zero-tolerance-for-failure operations, and leading teams under pressure.
-
-I've managed theatrical automation systems for 2,000-seat venues, coordinated AV integration for a $1 billion museum opening, and led Microsoft 365 migrations for 1,000+ users. I understand technology deeply, but my real strength is translating technical solutions into business value and leading teams to deliver results.
-
-### What I'm pursuing:
-
-I'm exploring opportunities in IT Operations Management, IT Service Delivery Management, or Technical Project Management where I can bring my operational leadership, service management expertise, and strategic communication skills to drive organizational excellence.
-
-Let's connect if you're looking for an IT leader who combines technical depth with people leadership, strategic thinking with hands-on execution, and a track record of delivering results in complex, multi-stakeholder environments.
 ---
 
-### 🛠️ Technical Skills
+### 🏛️ About Me
 
-* **Cloud & Enterprise Platforms:** Cloud-Aligned Operations (Microsoft 365, Azure), Entra ID, Intune, Exchange, SharePoint, Teams, PowerShell, Group Policy
-* **Infrastructure & Systems:** Windows Server (2012–2022), DNS, DHCP, VPN, Hyper-V, VMware ESXi, Proxmox, Linux fundamentals
-* **Networking & Security:** TCP/IP, VLANs, VoIP, site-to-site VPN, wireless, Conditional Access, MFA, SSO, identity lifecycle management
-* **IT Service Management & Coordination Tracking:** ITIL 4 Service Management Lifecycle, Agile-Kanban Project Coordination Tracking, ConnectWise, Jira, knowledge management systems
-* **Audiovisual Systems:** IP-based surveillance, AV integration, VoIP/SIP telephony, automated systems control
-* **AI & Automation:** AI-Augmented Process Design, Workflow Automation Mapping, Enterprise Prompt Engineering
+I am an enterprise technical leader and certified **PMP** & **ITIL 4** practitioner with 15+ years of experience transforming chaotic technical infrastructure into high-throughput, predictable operational delivery.
 
-### 🔌 Certifications 
+* 🚀 **Technical Program & Portfolio Delivery:** Governing multi-site IT delivery pipelines, Agile/Hybrid Kanban frameworks, and executive steering.
+* 🛠️ **IT Service Management (ITSM):** Designing centralized intake, Tier-3 escalation architectures (Jira Service Management), and Change Advisory Board (CAB) governance.
+* 🤖 **Enterprise AI Enablement:** Architecting practical agentic workflows, Atlassian Rovo automations, and Model Context Protocol (MCP) integrations to eliminate corporate toil.
+* 🛡️ **Zero-Downtime Infrastructure:** Background spanning $1B museum systems commissioning across 12 venues, 2,000-seat live theatre automation, and enterprise Microsoft 365 / Azure cloud migrations.
 
-PMI-PMP Project Management Professional Certified
+---
 
-ITIL 4 Foundations Certified
+### 🎯 Credentials & Certifications
 
-CompTIA A+ and Network+ Certified 
+* **PMP®** — Project Management Professional (PMI, April 2026)
+* **ITIL® 4 Foundation** — PeopleCert (August 2026)
+* **Atlassian Certified Professional** — Managing Jira Service Projects (ACP-420) & Board Configuration (ACA-905)
+* **Microsoft Certified** — Azure Fundamentals (AZ-900) & Microsoft 365 Fundamentals (MS-900)
+* **CompTIA** — Network+ Certified | **Google** — IT Support Professional Certificate
 
-Google IT Support Professional Certification 
+---
 
-Microsoft Azure (AZ-900) and 365 (MS-900) 
+### 🧰 Technical & Governance Ecosystem
 
-### 👷🏻‍♂️ Employment History 
+* **Program & Process:** Jira Software, Jira Service Management, Confluence, Hybrid Kanban, RACI Decision Frameworks, SLA Design.
+* **Cloud & Systems:** Microsoft 365, Azure, Entra ID (RBAC / MFA / Conditional Access), Microsoft Intune, Cisco Meraki, Windows Server, VMware.
+* **AI & Agentic Architectures:** Atlassian Rovo, Model Context Protocol (MCP), Prompt Engineering, Python, Markdown Scaffolding.
 
-IT Operations Supervisor at Sight & Sound, Branson Missouri May 2023 — Present 
+---
 
-Systems Administrator at Sight & Sound, Branson Missouri July 2018 — May 2023 
+### 💬 Connect With Me
 
-Audio Visual Engineer at Museum of the Bible, Washington D.C. July 2017 — July 2018 
-
-Electronics Technician at Sight & Sound, Branson Missouri November 2015 — July 2017 
-
-Production Manager at Royal Carribean & Carnival Cruises, Int December 2012 — October 2015 
-
-Intern Media Director at North Point Church, Springfield Missouri May 2009 — December 2012 
-
-Assistant Technical Director at Pike Auditorium, Bolivar Missouri September 2008 — December 2012 
-
-### 🎓 Education 
-
-Bachelor of Arts in Communications, Southwest Baptist University
+* 💼 **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
+* 🌐 **Personal Garden:** [jonriggert.com](https://jonriggert.com)
 
 <!--
 **jonriggert/jonriggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
