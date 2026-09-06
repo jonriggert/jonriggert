@@ -41,7 +41,7 @@ I am an enterprise technical leader and certified **PMP** & **ITIL 4** practitio
 ### 💬 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
-* 🌐 **Personal Garden:** [jonriggert.com](https://jonriggert.com)
+* 🌐 ✱*Website:** [jonriggert.com](https://jonriggert.com)
 
 <!--
 **jonriggert/jonriggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
