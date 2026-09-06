@@ -2,7 +2,7 @@
 
 # Hi, I'm Jon Riggert 👋
 
-**Senior Technical Program Manager (PMP, ITIL 4) | IT Service Delivery Leader** 
+**Senior Technical Program Manager (PMP, ITIL) | IT Service Delivery Leader** 
 *Enterprise Operations Modernization • Agile Delivery • AI Enablement Governance*
 
 📍 Nixa, Missouri (SWMO) / Remote • [LinkedIn](https://linkedin.com/in/jonriggert) • [Website](https://jonriggert.com)
@@ -11,7 +11,7 @@
 
 ### 🏛️ About Me
 
-I am an enterprise technical leader and certified **PMP** & **ITIL 4** practitioner with 15+ years of experience transforming chaotic technical infrastructure into high-throughput, predictable operational delivery.
+I am an enterprise technical leader and certified **PMP** & **ITIL** practitioner with 15+ years of experience transforming chaotic technical infrastructure into high-throughput, predictable operational delivery.
 
 * 🚀 **Technical Program & Portfolio Delivery:** Governing multi-site IT delivery pipelines, Agile/Hybrid Kanban frameworks, and executive steering.
 * 🛠️ **IT Service Management (ITSM):** Designing centralized intake, Tier-3 escalation architectures (Jira Service Management), and Change Advisory Board (CAB) governance.
@@ -41,7 +41,7 @@ I am an enterprise technical leader and certified **PMP** & **ITIL 4** practitio
 ### 💬 Connect With Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
-* 🌐 ✱*Website:** [jonriggert.com](https://jonriggert.com)
+* 🌐 **Website:** [jonriggert.com](https://jonriggert.com)
 
 <!--
 **jonriggert/jonriggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
