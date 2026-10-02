@@ -2,47 +2,36 @@
 
 # Hi, I'm Jon Riggert 👋
 
-**Senior Technical Program Manager (PMP, ITIL) | IT Service Delivery Leader** 
-*Enterprise Operations Modernization • Agile Delivery • AI Enablement Governance*
+**Senior Technical Program Manager | Customer Education & AI Enablement | PMP & ITIL 4**
 
-📍 Nixa, Missouri (SWMO) / Remote • [LinkedIn](https://linkedin.com/in/jonriggert) • [Website](https://jonriggert.com)
-
----
-
-### 🏛️ About Me
-
-I am an enterprise technical leader and certified **PMP** & **ITIL** practitioner with 15+ years of experience transforming chaotic technical infrastructure into high-throughput, predictable operational delivery.
-
-* 🚀 **Technical Program & Portfolio Delivery:** Governing multi-site IT delivery pipelines, Agile/Hybrid Kanban frameworks, and executive steering.
-* 🛠️ **IT Service Management (ITSM):** Designing centralized intake, Tier-3 escalation architectures (Jira Service Management), and Change Advisory Board (CAB) governance.
-* 🤖 **Enterprise AI Enablement:** Architecting practical agentic workflows, Atlassian Rovo automations, and Model Context Protocol (MCP) integrations to eliminate corporate toil.
-* 🛡️ **Zero-Downtime Infrastructure:** Background spanning $1B museum systems commissioning across 12 venues, 2,000-seat live theatre automation, and enterprise Microsoft 365 / Azure cloud migrations.
+I am a "Teacher-Builder" operating at the intersection of Enterprise IT Operations, Agile Delivery, and Agentic AI Architecture. My professional focus is translating complex technical capabilities into business value, and building the training ecosystems that drive enterprise adoption.
+Currently, I lead enterprise IT operations for a 1,000+ user organization, where I'm actively deploying Atlassian Rovo AI agents and automated governance workflows to eliminate organizational toil.
 
 ---
 
-### 🎯 Credentials & Certifications
+### 🚀 What I'm Building in the Open
 
-* **PMP®** — Project Management Professional (PMI, April 2026)
-* **ITIL® 4 Foundation** — PeopleCert (August 2026)
-* **Atlassian Certified Professional** — Managing Jira Service Projects (ACP-420) & Board Configuration (ACA-905)
-* **Microsoft Certified** — Azure Fundamentals (AZ-900) & Microsoft 365 Fundamentals (MS-900)
-* **CompTIA** — Network+ Certified | **Google** — IT Support Professional Certificate
+I use GitHub to open-source my personal infrastructure and AI experiments. 
 
----
+**The LifeOS (Personal AI Infrastructure)**
+I have architected a highly customized, model-agnostic local AI environment that acts as a persistent Chief of Staff and Board of Advisors. 
 
-### 🧰 Technical & Governance Ecosystem
+**Master Council Orchestrator**
+A python orchestration script that pulls local markdown state, feeds it to 7 concurrent AI archetypes (using local CLI wrappers) for parallel evaluation, runs a Devil's Advocate critique loop, and outputs an executive synthesis.
 
-* **Program & Process:** Jira Software, Jira Service Management, Confluence, Hybrid Kanban, RACI Decision Frameworks, SLA Design.
-* **Cloud & Systems:** Microsoft 365, Azure, Entra ID (RBAC / MFA / Conditional Access), Microsoft Intune, Cisco Meraki, Windows Server, VMware.
-* **AI & Agentic Architectures:** Atlassian Rovo, Model Context Protocol (MCP), Prompt Engineering, Python, Markdown Scaffolding.
+**Agentic Workflows** 
+Custom implementations of Model Context Protocol (MCP) boundaries and bash automation.
 
----
+### 🛠️ Tech Stack & Tooling
+**Methodology:** Lean-Agile, Hybrid Kanban, ITIL 4 Service Design
+**Orchestration:** Atlassian Suite (Jira, Confluence, Rovo AI), GitHub
+**AI Ecosystem:** Gemini, Claude, GPT, OpenClaw architecture concepts
+**Scripting:** Python, Bash, Markdown (Obsidian)
 
-### 💬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
-* 🌐 **Website:** [jonriggert.com](https://jonriggert.com)
-
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
+* **Location:** Nixa, MO (Remote/Central Time)
 <!--
 **jonriggert/jonriggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
