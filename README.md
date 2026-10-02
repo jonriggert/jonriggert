@@ -36,6 +36,7 @@ Custom implementations of Model Context Protocol (MCP) boundaries and bash autom
 ### 📫 Let's Connect
 
 **LinkedIn:** [linkedin.com/in/jonriggert](https://linkedin.com/in/jonriggert)
+
 **Location:** Nixa, MO (Remote/Central Time)
 <!--
 **jonriggert/jonriggert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
