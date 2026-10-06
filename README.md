@@ -6,7 +6,7 @@ I'm a "Teacher-Builder": I take complex systems and make them understandable and
 
 What you'll find here: small experiments with AI workflows, automation, and my homelab, shared as I learn.
 
-Tools I work with: Jira, Jira Service Management, Confluence, Rovo • Microsoft 365, Azure, Intune • Proxmox • Claude, ChatGPT, Gemini • Python & Bash (learning), Markdown/Obsidian
+Tools I work with: Jira, Jira Service Management, Confluence, Rovo • Microsoft 365, Azure, Intune • Proxmox • Claude, ChatGPT, Gemini • Markdown/Obsidian
 
 Connect: linkedin.com/in/jonriggert • Nixa, MO (Central Time)
 <!--
