@@ -1,12 +1,8 @@
 Hi, I'm Jon Riggert 👋
 
-IT Operations Leader | Technical Enablement & Training | PMP, ITIL 4 Foundation
+I’m an advisor and teacher at heart, passionate about customer and employee success. I supervise IT operations at Sight & Sound Theatres, supporting 1,000+ staff across two campuses.
 
-I'm a "Teacher-Builder": I take complex systems and make them understandable and calm for the people who use them. I lead IT operations for a 1,000+ staff organization, where I'm piloting Atlassian Rovo and AI tools to cut manual work.
-
-What you'll find here: small experiments with AI workflows, automation, and my homelab, shared as I learn.
-
-Tools I work with: Jira, Jira Service Management, Confluence, Rovo • Microsoft 365, Azure, Intune • Proxmox • Claude, ChatGPT, Gemini • Markdown/Obsidian
+The work I care about most is standing between a technical thing and the human who needs it, and translating, so people can succeed with the tools in front of them.
 
 Connect: linkedin.com/in/jonriggert • Nixa, MO (Central Time)
 <!--
